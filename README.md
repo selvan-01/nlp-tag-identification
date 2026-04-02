@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail03.png" width="800">
+</p>
+
 # 📌 Tag Identification using NLP
 
 ## 🚀 Project Overview
