@@ -101,7 +101,13 @@ nltk.download('omw-1.4')
 - Build Web App (Flask / Streamlit)  
 
 ---
+## 🔗 Links
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/nlp-tag-identification.git)
+
+---
 ## 💡 Conclusion
 This project builds a strong foundation in NLP preprocessing and prepares data for intelligent text classification systems.
 
